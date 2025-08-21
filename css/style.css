@@ -32,6 +32,10 @@ main {
     max-width: 800px;
     margin: auto;
     background-color: white;
+    background-image: url("../images/image1.jpg");
+    background-size: cover;         /* 画面全体にフィット */
+    background-repeat: no-repeat;   /* 繰り返しなし */
+    background-position: center;    /* 中央配置 */
     border-radius: 8px;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 }
