@@ -49,3 +49,8 @@ footer {
     background-color: #333;
     color: white;
 }
+
+section {
+  margin: 0;
+  padding: 0;
+}
