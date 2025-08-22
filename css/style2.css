@@ -16,9 +16,10 @@ header {
     color: white;
 }
 
-/* header h1 {
+main h2 {
   padding: 0px;
-} */
+  margin: 0px;
+} 
 
 nav ul {
     list-style: none;
