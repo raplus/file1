@@ -41,6 +41,9 @@ main {
     display: block; /* 明示する */
     margin: 0;       /* 念のため追加 */
     padding: 0;      /* 念のため追加 */
+    background-size: contain;       /* アスペクト比を保って全体表示 */
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 footer {
