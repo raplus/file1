@@ -33,7 +33,7 @@ main {
     margin: auto;
     background-color: white; */
     color: #1a2a4f;
-    width: 100vw; /* 横幅を画面いっぱいに */
+    width: 100%; /* 横幅を画面いっぱいに */
     height: auto; /* 高さは内容に応じて */
     /* aspect-ratio: 1280 / 960; アスペクト比を指定 */
     background-image: url("../images/image1.jpg");
