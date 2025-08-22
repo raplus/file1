@@ -6,14 +6,24 @@
 }
 
 body {
-    padding: 0px;
+  background-color: #d0d0d0;
+  color: #202020;
+  font-family: 'Verdana', sans-serif;
+  padding: 0px;
 }
 
-header {
-    background-color: #007bff;
+/* header {
+    background-color: #add3fc;
     padding: 20px;
     text-align: center;
     color: white;
+} */
+header {
+  background-color: #007bff;
+  color: white;
+  border-bottom: 2px solid #ffcc00;
+  padding: 20px;
+  text-align: center;
 }
 
 h2 {
