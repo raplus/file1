@@ -41,7 +41,7 @@ main {
     display: block; /* 明示する */
     margin: 0;       /* 念のため追加 */
     padding: 0;      /* 念のため追加 */
-    aspect-ratio: 1280 / 960;
+    /* aspect-ratio: 1280 / 960; */
     width: 100%; /* 横幅を画面いっぱいに */
     height: auto; /* 高さは内容に応じて */
     background-size: contain;       /* アスペクト比を保って全体表示 */
