@@ -1,0 +1,57 @@
+@charset "utf-8";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(to top, #0055AAff, #87cefaB3);
+  color: #202020;
+  font-family: 'Verdana', sans-serif;
+  padding: 0px;
+}
+
+header {
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+h2 {
+  padding: 0px;
+  margin: 0px;
+} 
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    /* background-image: url("../images/image1.jpg"); */
+    display: block; /* 明示する */
+    margin: 0;       /* 念のため追加 */
+    padding: 0;      /* 念のため追加 */
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+section {
+  margin: 0;
+  padding: 0;
+}
